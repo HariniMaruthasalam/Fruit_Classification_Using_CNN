@@ -1,9 +1,6 @@
-# Fruit_Classification_Using_CNN
-
+# Fruit Classification using CNN
 ![istockphoto-529664572-612x612](https://github.com/HariniMaruthasalam/Fruit_Classification_Using_CNN/assets/114240304/ad769b17-7d37-41c7-9f14-07f17282e223)
 
-
-# Fruit Classification using CNN
 
 This repository contains code for a fruit classification project using Convolutional Neural Networks (CNN). The project aims to classify different types of fruits based on their images.
 
